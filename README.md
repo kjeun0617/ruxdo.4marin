@@ -1,7 +1,7 @@
 ## 소개
 |**곁애**|
 |:---:|
-|img|
+|<img src="assets/logo.png" alt="logo" width="50" height="50"|
 |고령자와 보호자를 잇는 간접 소통 어플|
 
 ## 환경
